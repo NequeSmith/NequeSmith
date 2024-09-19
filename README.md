@@ -12,7 +12,6 @@ Passionate about turning ideas into code 💻 and solving real-world problems wi
 - 🌱 Continuously learning and exploring new technologies in the ever-evolving tech landscape
 - 💡 Enthusiastic about collaborating on innovative projects that make a positive impact
 - 🔍 Always seeking opportunities to enhance my skills and take on new challenges
-- 🌍 Working on building my digital portfolio to showcase my projects and skills
 
 <div align="center">
 
