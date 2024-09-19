@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi! I'm Doneque [![LinkedIn](https://img.shields.io/badge/Let's%20Connect!-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/doneque smith/)
+# 👋 Hi! I'm Doneque [![LinkedIn](https://img.shields.io/badge/Let's%20Connect!-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/doneque-smith-346b98199/)
 
 Passionate about turning ideas into code 💻 and solving real-world problems with technology 🚀
 
