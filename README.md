@@ -27,7 +27,7 @@ Passionate about turning ideas into code 💻 and solving real-world problems wi
 
 ## 📈 GitHub Adventures
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=DonequeSmith&theme=radical&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=NequeSmith&theme=radical&hide_border=true)
 
 </div>
 
